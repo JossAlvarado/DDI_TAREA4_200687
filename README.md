@@ -1,2 +1,7 @@
-# DDI_Tarea4_200527
-Implementación de una interfaz de usuario con interacción de pantalla Activity
+# DDI_Tarea4_200687
+
+**Tarea 4 Implementación de cambios de pantalla en wearebles**
+
+**Josseline Alvarado Vargas**
+
+**Matricula: 200687**
