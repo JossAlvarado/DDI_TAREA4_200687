@@ -1,7 +1,16 @@
-# DDI_TAREA_4_200687
 
-**Tarea 4 Implementación de cambios de pantalla en wearebles**
+# Universidad Tecnológica de Xicotepec de Juárez
 
-**Josseline Alvarado Vargas**
+![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-**Matricula: 200687**
+## Ingeniería en Desarrollo y Gestión de Software
+### Josseline Alvarado Vargas
+### 9A
+#### Desarrollo de Dispositivos Inteligentes
+### DDI_TAREA4_200687
+
+## Características
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | Tarea 4 Cambio de pantallas                                    |
+| Descripción            | Implementación del cambio de Pantalla en el dispositivo wearables |
